@@ -1,0 +1,14 @@
+{
+
+    "autoload": {
+        "psr-4": {
+            "Cherif\\SlimFromScratch\\": "src/"
+        }
+    },
+    "require": {
+        "slim/slim": "4.*",
+        "irazasyed/telegram-bot-sdk": "^3.14",
+        "php-di/php-di": "^7.0",
+        "laminas/laminas-diactoros": "^3.3"
+    }
+}
